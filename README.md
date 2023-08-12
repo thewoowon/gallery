@@ -9,3 +9,8 @@ Midjourney와 함께한 갤러리 프로젝트입니다.
 - coding
 - coffee
 - music
+
+## let me know
+
+- your love
+- your interest
