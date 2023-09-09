@@ -13,7 +13,7 @@ export default function Spider() {
         x2="991.999"
         y2="1.50163"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="2.70098"
@@ -21,7 +21,7 @@ export default function Spider() {
         x2="750.701"
         y2="2.01796"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="139.534"
@@ -29,7 +29,7 @@ export default function Spider() {
         x2="556.534"
         y2="2.58772"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="461.5"
@@ -37,7 +37,7 @@ export default function Spider() {
         x2="414.5"
         y2="3.04715"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="811.558"
@@ -45,7 +45,7 @@ export default function Spider() {
         x2="264.558"
         y2="3.5356"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="1175.7"
@@ -53,7 +53,7 @@ export default function Spider() {
         x2="108.702"
         y2="3.98339"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="1520.88"
@@ -61,7 +61,7 @@ export default function Spider() {
         x2="2.8822"
         y2="78.3284"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="1643.22"
@@ -69,7 +69,7 @@ export default function Spider() {
         x2="3.22195"
         y2="327.758"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <line
         x1="1643.68"
@@ -77,23 +77,23 @@ export default function Spider() {
         x2="3.67777"
         y2="490.122"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <path
         d="M1643.68 1073.11L2.50018 643"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
-      <path d="M1643.18 727.968L5 766.999" stroke="#666666" stroke-width="5" />
+      <path d="M1643.18 727.968L5 766.999" stroke="#666666" strokeWidth="5" />
       <path
         d="M1643 326.001L2.00016 903.001"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
       <path
         d="M1443 2.99908L1.99997 1065.18"
         stroke="#666666"
-        stroke-width="5"
+        strokeWidth="5"
       />
     </svg>
   );
